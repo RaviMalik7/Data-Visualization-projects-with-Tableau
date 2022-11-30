@@ -8,3 +8,6 @@ Some Data Visualization projects using Tableau.
 
 
 ![Dashboard(1)](https://user-images.githubusercontent.com/74044300/204767406-0de73b0e-2c20-445d-969a-bd29ce2e45f9.png)
+
+
+![Dashboard 1](https://user-images.githubusercontent.com/74044300/204787316-cd7fe2f9-c2da-4a69-ab41-acd5d093d82b.png)
