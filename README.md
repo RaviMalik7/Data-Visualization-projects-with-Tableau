@@ -11,3 +11,12 @@ Some Data Visualization projects using Tableau.
 
 
 ![Dashboard 1](https://user-images.githubusercontent.com/74044300/204787316-cd7fe2f9-c2da-4a69-ab41-acd5d093d82b.png)
+
+
+![Dashboard 1 (1)](https://user-images.githubusercontent.com/74044300/205346973-589c04f6-fc99-4c9c-95c5-9c380518c395.png)
+
+
+![Dashboard 1 (2)](https://user-images.githubusercontent.com/74044300/205347048-703823a2-655c-4781-8094-904dce62d61e.png)
+
+
+![Dashboard 1](https://user-images.githubusercontent.com/74044300/205347093-03ae5a24-a3b8-44cd-a039-427ffdbc79e4.png)
